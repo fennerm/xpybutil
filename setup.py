@@ -1,4 +1,3 @@
-from __future__ import print_function
 from io import open
 import sys
 
@@ -14,7 +13,7 @@ setup(
     version="0.0.2",
     license="WTFPL",
     description="An incomplete xcb-util port plus some extras",
-    install_requires=['xcffib']
+    install_requires=['xcffib'],
     long_description=open('README', 'r', encoding='utf-8').read(),
     url="http://github.com/fennerm/xpybutil",
     packages=find_packages(),
