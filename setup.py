@@ -10,7 +10,7 @@ setup(
     name="xpybutil",
     maintainer="Fenner Macrae",
     maintainer_email="fmacrae.dev@gmail.com",
-    version="0.0.3",
+    version="0.0.4",
     license="WTFPL",
     description="An incomplete xcb-util port plus some extras",
     install_requires=['xcffib'],
