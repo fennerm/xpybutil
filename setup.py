@@ -18,5 +18,5 @@ setup(
     url="http://github.com/fennerm/xpybutil",
     packages=find_packages(),
     keywords='xorg X xcb xpyb xcffib',
-    data_files=[('share/doc/xpybutil', ['README', 'LICENSE'])]
+    data_files=[('share/doc/xpybutil', ['README.md', 'LICENSE'])]
 )
