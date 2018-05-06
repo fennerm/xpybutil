@@ -1,3 +1,7 @@
+My fork of [BurntSushi/xpybutil](https://www.github.com/BurntSushi/xpybutil) with a couple of small bugfixes. This is the version that is uploaded to Pypi.
+
+BurntSushi's intro:
+
 Introduction
 ============
 xpybutil is an abstraction over the X Python Binding (xpyb - the Python version

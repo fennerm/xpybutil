@@ -14,7 +14,7 @@ setup(
     license="WTFPL",
     description="An incomplete xcb-util port plus some extras",
     install_requires=['xcffib'],
-    long_description=open('README', 'r', encoding='utf-8').read(),
+    long_description=open('README.md', 'r', encoding='utf-8').read(),
     url="http://github.com/fennerm/xpybutil",
     packages=find_packages(),
     keywords='xorg X xcb xpyb xcffib',
